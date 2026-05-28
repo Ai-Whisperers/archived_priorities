@@ -6,7 +6,6 @@
 | Golden Visa Advisory | /root/golden-visa-advisory | goldenvisa.paragu-ai.com | Raul Fretes | Active — live |
 | Granja Cabral / Laura | /root/granja-cabral | cabral.paragu-ai.com | WhatsApp group 120363408591139576 | Active — egg farm |
 | Dayah LitWorks | /root/dayah-litworks-deploy | dayah.paragu-ai.com | — | Active — 7 client books |
-| El Viajero Comercio | /root/elviajero-comercio | viajero.paragu-ai.com | — | Live |
 | Nexa Paraguay | /root/sites/nexa-paraguay | nexa.paragu-ai.com | — | Live |
 | Nudo | /root/nudo/repo | nudo.paragu-ai.com | — | Live |
 | Oz Montania | /root/ozmontania-website | ozmontania.paragu-ai.com | — | Live, no real images |
@@ -14,10 +13,7 @@
 | Clinica Duerksen | /root/clinica-duerksen | duerksen.paragu-ai.com | — | Live |
 | Mantra Spa | /root/mantra-spa | mantra-spa.paragu-ai.com | — | Live |
 | Magnolia Peluqueria | /root/magnolia-peluqueria | magnolia-peluqueria.paragu-ai.com | — | Live |
-| Maiyu Atelier | /tmp/maiyu-atelier | maiyu.paragu-ai.com | — | Live (from /tmp) |
 | Villamayor & Asociados | /tmp/villamayor-asociados | villamayor.paragu-ai.com | — | Live (from /tmp) |
-| Nicolas Duarte | /root/repos/nicolas-duarte-site | nicolas-duarte.paragu-ai.com | — | Live (portfolio) |
-| 30vcs | /root/30vcs | 30vcs.paragu-ai.com | — | Placeholder |
 | Brahm the Racoon | /root/brahm-the-racoon | brahm.paragu-ai.com | — | Brand site |
 | Depiflash | /root/depiflash | — | — | Built, URL unknown |
 | Vete | /root/vete | — | — | Unknown |
